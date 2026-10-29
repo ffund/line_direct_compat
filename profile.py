@@ -1,4 +1,14 @@
-"""Topology where two hosts are directly connected"""
+"""
+## IP fragmentation
+
+This profile includes two directly connected hosts.
+
+Lab instructions:
+
+- [Reserve resources on CloudLab](https://ffund.github.io/tcp-ip-essentials/lab-fragment/reserve-cloudlab)
+- [iperf3](https://ffund.github.io/tcp-ip-essentials/lab-fragment/iperf3)
+- [IP datagrams](https://ffund.github.io/tcp-ip-essentials/lab-fragment/datagram)
+"""
 
 #
 # NOTE: This code was machine converted. An actual human would not
